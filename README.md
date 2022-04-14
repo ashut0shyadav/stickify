@@ -19,4 +19,4 @@ How to set it up on a local ?
 1. Download the build folder
 2. Run the index.html file on the local folder
 
-Video Link : 
+Video Link : https://drive.google.com/file/d/1g4X2TgNfexhXsJSPH9LkJUy80hBWapxJ/view?usp=sharing
