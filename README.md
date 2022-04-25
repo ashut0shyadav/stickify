@@ -18,8 +18,3 @@ Active Link : https://stickify-dashboard.netlify.app/
 How to set it up on a local ?
 1. Download the build folder
 2. Run the index.html file on the local device
-
-Video Link PART 1: https://drive.google.com/file/d/1g4X2TgNfexhXsJSPH9LkJUy80hBWapxJ/view?usp=sharing
-
-Video Link PART 2: https://drive.google.com/file/d/1aBSetJgccwZVKibGOsP6AIS4PpUhd_9a/view?usp=sharing
-
